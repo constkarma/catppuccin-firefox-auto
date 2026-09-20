@@ -94,4 +94,4 @@ This project is independently maintained and is not affiliated with or endorsed 
 
 This project is licensed under the MIT License. See [`LICENSE`](./LICENSE).
 
-Catppuccin-derived material remains subject to the Catppuccin MIT License and its original copyright notice. See [`LICENSES/Catppuccin.txt`](./LICENSES/Catppuccin.txt).
+Catppuccin-derived material remains subject to the Catppuccin MIT License and its original copyright notice. See [`LICENSES/catppuccin.txt`](./LICENSES/catppuccin.txt).
