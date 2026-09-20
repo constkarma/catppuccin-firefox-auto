@@ -1,0 +1,109 @@
+{
+  "manifest_version": 3,
+  "name": "Catppuccin Firefox Auto",
+  "version": "0.1.0",
+  "description": "Catppuccin Latte and Frappé theme with automatic light/dark switching.",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "catppuccin-auto@constkarma.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+
+  "theme": {
+    "colors": {
+      "toolbar": "#e6e9ef",
+      "toolbar_text": "#4c4f69",
+
+      "frame": "#dce0e8",
+      "frame_inactive": "#dce0e8",
+
+      "toolbar_bottom_separator": "rgba(136, 57, 239, 0.22)",
+
+      "tab_background_text": "#4c4f69",
+      "tab_selected": "#eff1f5",
+      "tab_text": "#4c4f69",
+      "tab_line": "#8839ef",
+      "tab_loading": "#8839ef",
+
+      "toolbar_field": "#eff1f5",
+      "toolbar_field_text": "#4c4f69",
+      "toolbar_field_focus": "#eff1f5",
+      "toolbar_field_border": "rgba(136, 57, 239, 0.35)",
+      "toolbar_field_border_focus": "#8839ef",
+      "toolbar_field_highlight": "#8839ef",
+      "toolbar_field_highlight_text": "#eff1f5",
+
+      "button_background_active": "#ccd0da",
+
+      "icons": "#8839ef",
+      "icons_attention": "#8839ef",
+
+      "popup": "#eff1f5",
+      "popup_text": "#4c4f69",
+      "popup_border": "#8839ef",
+      "popup_highlight": "#ccd0da",
+      "popup_highlight_text": "#4c4f69",
+
+      "sidebar": "#e6e9ef",
+      "sidebar_text": "#4c4f69",
+      "sidebar_border": "rgba(136, 57, 239, 0.22)",
+      "sidebar_highlight": "#ccd0da",
+      "sidebar_highlight_text": "#4c4f69",
+
+      "ntp_background": "#e6e9ef",
+      "ntp_card_background": "#eff1f5",
+      "ntp_text": "#4c4f69"
+    }
+  },
+
+  "dark_theme": {
+    "colors": {
+      "toolbar": "#292c3c",
+      "toolbar_text": "#c6d0f5",
+
+      "frame": "#232634",
+      "frame_inactive": "#232634",
+
+      "toolbar_bottom_separator": "rgba(202, 158, 230, 0.22)",
+
+      "tab_background_text": "#c6d0f5",
+      "tab_selected": "#303446",
+      "tab_text": "#c6d0f5",
+      "tab_line": "#ca9ee6",
+      "tab_loading": "#ca9ee6",
+
+      "toolbar_field": "#303446",
+      "toolbar_field_text": "#c6d0f5",
+      "toolbar_field_focus": "#303446",
+      "toolbar_field_border": "rgba(202, 158, 230, 0.35)",
+      "toolbar_field_border_focus": "#ca9ee6",
+      "toolbar_field_highlight": "#ca9ee6",
+      "toolbar_field_highlight_text": "#303446",
+
+      "button_background_active": "#414559",
+
+      "icons": "#ca9ee6",
+      "icons_attention": "#ca9ee6",
+
+      "popup": "#303446",
+      "popup_text": "#c6d0f5",
+      "popup_border": "#ca9ee6",
+      "popup_highlight": "#414559",
+      "popup_highlight_text": "#c6d0f5",
+
+      "sidebar": "#292c3c",
+      "sidebar_text": "#c6d0f5",
+      "sidebar_border": "rgba(202, 158, 230, 0.22)",
+      "sidebar_highlight": "#414559",
+      "sidebar_highlight_text": "#c6d0f5",
+
+      "ntp_background": "#292c3c",
+      "ntp_card_background": "#303446",
+      "ntp_text": "#c6d0f5"
+    }
+  }
+}
